@@ -8,4 +8,4 @@ perangkat lunak yang diciptakan oleh Linus Torvalds. Pada awalnya memang ditujuk
 sebuah kernel linux. Fungsi utama dari git adalah untuk mengatur versi dari sebuah source code 
 program dengan cara memberikan tanda baris dan code yang akan ditambah atau diganti.
 
-URL : https://github.com/muhammadfadhil80
+URL : https://github.com/muhammadfadhil80/kelas-4.2-mk-rpl-1
